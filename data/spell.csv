@@ -1,0 +1,16 @@
+,key,name,id
+0,21,방어막,SummonerBarrier
+1,1,정화,SummonerBoost
+2,14,점화,SummonerDot
+3,3,탈진,SummonerExhaust
+4,4,점멸,SummonerFlash
+5,6,유체화,SummonerHaste
+6,7,회복,SummonerHeal
+7,13,총명,SummonerMana
+8,30,왕을 향해!,SummonerPoroRecall
+9,31,포로 던지기,SummonerPoroThrow
+10,11,강타,SummonerSmite
+11,39,표식,SummonerSnowURFSnowball_Mark
+12,32,표식,SummonerSnowball
+13,12,순간이동,SummonerTeleport
+14,54,Placeholder,Summoner_UltBook_Placeholder
